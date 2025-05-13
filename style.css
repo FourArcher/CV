@@ -55,7 +55,7 @@ body {
   justify-content: flex-end;
   align-items: flex-end;    
   align-self: end;          
-  gap: 0.5rem;
+  gap: 12%;
 }
 .banner-desc {
   color: #FFFFFF;
